@@ -1,0 +1,1 @@
+ /home/vitormoura/Code/flutter/calculadora/.dart_tool/flutter_build/0cd94ea926b49a6d33cb22027145c9bd/native_assets.yaml: 
